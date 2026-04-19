@@ -1,0 +1,18 @@
+{
+    "name": "com.ysdzm.adderpackage.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5f32f8f596655b24db4be3f5cee9d457"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

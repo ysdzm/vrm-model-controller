@@ -1,0 +1,11 @@
+{
+    "name": "com.ysdzm.adderpackage",
+    "displayName": "SampleAdder",
+    "version": "1.0.0",
+    "unity": "6000.4",
+    "description": "Unity Learn. Only Add Package.",
+    "keywords": [],
+    "license": "MIT",
+    "category": "",
+    "dependencies": {}
+}
