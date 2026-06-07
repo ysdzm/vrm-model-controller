@@ -162,7 +162,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff9d53b093613c248bd7ab626719a4c2, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: com.ysdzm.adderpackage.sample::Ysdzm.SampleAdder.Sample.AdderConsoleLogger
+  m_EditorClassIdentifier: com.ysdzm.vrm-model-controller.sample::Ysdzm.VrmModelController.Sample.AdderConsoleLogger
   x: 0
   y: 0
 --- !u!1 &461813808

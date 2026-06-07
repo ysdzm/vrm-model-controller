@@ -1,8 +1,8 @@
-using Ysdzm.SampleAdder;
+using Ysdzm.VrmModelController;
 using UnityEngine;
 
 
-namespace Ysdzm.SampleAdder.Sample
+namespace Ysdzm.VrmModelController.Sample
 {
     public class AdderConsoleLogger : MonoBehaviour
     {

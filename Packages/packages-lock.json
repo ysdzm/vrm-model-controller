@@ -191,8 +191,8 @@
       },
       "url": "https://packages.unity.com"
     },
-    "com.ysdzm.adderpackage": {
-      "version": "file:com.ysdzm.adderpackage",
+    "com.ysdzm.vrm-model-controller": {
+      "version": "file:com.ysdzm.vrm-model-controller",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}

@@ -1,9 +1,7 @@
 {
-    "name": "com.ysdzm.adderpackage.sample",
+    "name": "com.ysdzm.vrm-model-controller",
     "rootNamespace": "",
-    "references": [
-        "GUID:5f32f8f596655b24db4be3f5cee9d457"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

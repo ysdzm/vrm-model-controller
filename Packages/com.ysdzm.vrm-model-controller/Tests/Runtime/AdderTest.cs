@@ -3,7 +3,7 @@ using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
 
-namespace Ysdzm.SampleAdder.Tests
+namespace Ysdzm.VrmModelController.Tests
 {
     public class AdderTest
     {

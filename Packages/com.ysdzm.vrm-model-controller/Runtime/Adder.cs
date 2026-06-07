@@ -1,4 +1,4 @@
-namespace Ysdzm.SampleAdder
+namespace Ysdzm.VrmModelController
 {
     public class Adder
     {
