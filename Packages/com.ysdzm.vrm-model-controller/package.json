@@ -3,7 +3,7 @@
     "displayName": "vrm-model-controller",
     "version": "1.0.0",
     "unity": "6000.4",
-    "description": "Unity Learn. Only Add Package.",
+    "description": "Runtime controls for VRM 1.0 models.",
     "keywords": [],
     "license": "MIT",
     "category": "",
